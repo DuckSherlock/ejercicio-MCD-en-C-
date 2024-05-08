@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\obj\Debug\PROYECTO_MCD.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\obj\Debug\PROYECTO_MCD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\bin\Debug\PROYECTOMCD.dll
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\bin\Debug\PROYECTOMCD.pdb
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\obj\Debug\PROYECTOMCD.dll
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\obj\Debug\PROYECTOMCD.pdb
+D:\Cursos 7mo semestre\Construccion de softwer\Visual studio\SolMCD\PROYECTOMCD\bin\Debug\PROYECTOMCD.dll
+D:\Cursos 7mo semestre\Construccion de softwer\Visual studio\SolMCD\PROYECTOMCD\bin\Debug\PROYECTOMCD.pdb
+D:\Cursos 7mo semestre\Construccion de softwer\Visual studio\SolMCD\PROYECTOMCD\obj\Debug\PROYECTO_MCD.csproj.AssemblyReference.cache
+D:\Cursos 7mo semestre\Construccion de softwer\Visual studio\SolMCD\PROYECTOMCD\obj\Debug\PROYECTO_MCD.csproj.CoreCompileInputs.cache
+D:\Cursos 7mo semestre\Construccion de softwer\Visual studio\SolMCD\PROYECTOMCD\obj\Debug\PROYECTOMCD.dll
+D:\Cursos 7mo semestre\Construccion de softwer\Visual studio\SolMCD\PROYECTOMCD\obj\Debug\PROYECTOMCD.pdb
